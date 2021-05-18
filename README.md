@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   
   I'm currently studying Cloud, K8S, etc 🤔...
   
-  For example, open source such as Prometheus with Kubernetes.😄
+  For example, open source such as Prometheus with Kubernetes. 😄
   
 ---
 
