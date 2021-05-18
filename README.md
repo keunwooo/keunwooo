@@ -23,7 +23,9 @@ Here are some ideas to get you started:
   
   <h1> Hi! Welcome Keunwoo's Git </h1>
   
-  **I'm currently studying Cloud, K8S, etc...**
+  ** I am a developer who wants to continue to develop. **
+  
+  I'm currently studying Cloud, K8S, etc...**
   
   For example, open source such as Prometheus with Kubernetes.	
   
