@@ -62,6 +62,8 @@ History
 <div align=left>
 	
 Contact 🤔
-	
+
+<img src="https://img.shields.io/badge/Blog-003545?style=flat-square&logo=&logoColor=white"/></a>
+
 </div>
 
