@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Kubernetes-3766AB?style=flat-square&logo=Kubernetes&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-3766AB?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MariaDB-3766AB?style=flat-square&logo=MariaDB&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Material-UI-3766AB?style=flat-square&logo=Material-UI&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MaterialUI-3766AB?style=flat-square&logo=Material-UI&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/AWS-3766AB?style=flat-square&logo=AWS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MariaDB-3766AB?style=flat-square&logo=MariaDB&logoColor=white"/></a>
 
