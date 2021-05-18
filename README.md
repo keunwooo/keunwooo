@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   </div>
   
   <h1> Hi! Welcome Keunwoo's Git </h1>
-	
+  I'm currently studying cloud. For example, open source such as Prometheus with Kubernetes.	
 ---
 
 <div>
