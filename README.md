@@ -55,13 +55,13 @@ Here are some ideas to get you started:
 ---
 <div align=center>
 	
-History
+<h3> History </h3>
 	
 </div>
 
 <div align=center>
 	
-Contact 🤔
+<h3> Contact </h3> 🤔
 
 <a href="https://blog.naver.com/ladgudcks"><img src="https://img.shields.io/badge/Blog-003545?style=flat-square&logo=&logoColor=white"/></a>
 
