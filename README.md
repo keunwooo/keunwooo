@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 <div align=center>
 	
-<h3> Contact </h3> 🤔
+<h3> Contact 🤔 </h3>
 
 <a href="https://blog.naver.com/ladgudcks"><img src="https://img.shields.io/badge/Blog-003545?style=flat-square&logo=&logoColor=white"/></a>
 
