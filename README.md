@@ -41,6 +41,4 @@ Here are some ideas to get you started:
 
 ---
 
-2021
 
-2022
