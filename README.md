@@ -42,6 +42,14 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/React-3766AB?style=flat-square&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/SpringBoot-3766AB?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Docker-3766AB?style=flat-square&logo=Docker&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Kubernetes-3766AB?style=flat-square&logo=Kubernetes&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MySQL-3766AB?style=flat-square&logo=MySQL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MariaDB-3766AB?style=flat-square&logo=MariaDB&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Materual-UI-3766AB?style=flat-square&logo=Materual-UI&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/AWS-3766AB?style=flat-square&logo=AWS&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MariaDB-3766AB?style=flat-square&logo=MariaDB&logoColor=white"/></a>
+
+
 
  </div>
 
