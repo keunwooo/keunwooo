@@ -21,7 +21,7 @@ Here are some ideas to get you started:
  
   </div>
   
-  <h1> Hi! Welcome Keunwoo's Git 
+  <h1> Hi! Welcome Keunwoo's Git </h1>
 	
 ---
 
