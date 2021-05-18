@@ -70,3 +70,5 @@ Here are some ideas to get you started:
 </div>
 
 ---
+
+![footer](https://capsule-render.vercel.app/api?section=footer)
