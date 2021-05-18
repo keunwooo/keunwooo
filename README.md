@@ -30,11 +30,11 @@ Here are some ideas to get you started:
   For example, open source such as Prometheus with Kubernetes. 😄
   
 ---
-	
-[![keunwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=keunwooo)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align=center>
 	
+[![keunwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=keunwooo)](https://github.com/anuraghazra/github-readme-stats)
+
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
