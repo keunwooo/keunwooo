@@ -26,6 +26,7 @@ Here are some ideas to get you started:
   **I am a developer who wants to continue to develop.**
   
   I'm currently studying Cloud, K8S, etc...
+  
   For example, open source such as Prometheus with Kubernetes.	
   
 ---
