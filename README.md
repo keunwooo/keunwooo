@@ -63,7 +63,7 @@ History
 	
 Contact 🤔
 
-<img src="https://img.shields.io/badge/Blog-003545?style=flat-square&logo=&logoColor=white"/></a>
+<a href="https://blog.naver.com/ladgudcks"><img src="https://img.shields.io/badge/Blog-003545?style=flat-square&logo=&logoColor=white"/></a>
 
 </div>
 
