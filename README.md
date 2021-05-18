@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 	
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
  
-  </div>
-  
   <h1> Hi! Welcome Keunwoo's Git </h1>
   
   **I am a developer who wants to continue to develop.**
@@ -29,6 +27,7 @@ Here are some ideas to get you started:
   
   For example, open source such as Prometheus with Kubernetes. 😄
   
+  </div>
 ---
 
 <div align=center>
