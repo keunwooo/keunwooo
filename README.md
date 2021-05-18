@@ -21,7 +21,7 @@ Here are some ideas to get you started:
  
   <h1> Hi! Welcome Keunwoo's Git </h1>
   
-  **I am a developer who wants to continue to develop.**
+  **I am a developer who wants to continue to Growing as a Developer.**
   
   I'm currently studying Cloud, K8S, etc 🤔...
   
