@@ -48,7 +48,7 @@ History
 
 <div align=left>
 	
-Contact
+🤔 Contact
 	
 </div>
 
