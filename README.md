@@ -40,13 +40,13 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keunwooo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-<div align=center>
+<div align=left>
 	
 History
 	
 </div>
 
-<div align=center>
+<div align=left>
 	
 Contact
 	
