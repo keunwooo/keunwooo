@@ -67,6 +67,9 @@ Here are some ideas to get you started:
 <a href="https://blog.naver.com/ladgudcks"><img src="https://img.shields.io/badge/Blog-003545?style=flat-square&logo=&logoColor=white"/></a>
 </h3>
 
+<h3> just
+하나하나 공부로, 스터디로 섭섭해할 필요 없다. 그저 혼자서 묵묵히 해나가면 그 실력에 맞는 새로운 사람을 만나게 될뿐.	
+</h3>
 ![footer](https://capsule-render.vercel.app/api?section=footer)
 
 </div>
