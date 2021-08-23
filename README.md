@@ -70,10 +70,6 @@ Here are some ideas to get you started:
 <h3> just
 	
 </h3>
-	
-
-![footer](https://capsule-render.vercel.app/api?section=footer)
-
 </div>
 
 ---
